@@ -1,5 +1,6 @@
 {
   "name": "expense-tracker-react",
+  "homepage": "https://pronajitdey.github.io/Expense-Tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
